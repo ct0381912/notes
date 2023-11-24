@@ -35,3 +35,9 @@ Let's GO
 5. Refactor and optimize your existing code regularly to remove duplications, improve efficiency, fix errors, or improve the overall structure. Doing so will make your project more robust and easier to maintain.    
 6. Learn and use version control systems, such as Git, for tracking and managing code changes, collaborating with team members, fixing and resolving conflicts, among other useful features.     
 7. Always keep up-date with the latest programming technologies, tools, libraries, frameworks, best-practices, security vulnerabilities, performance optimization techniques, as well as new programming languages and their ecosystems. By staying informed, you can make better decisions and improve your coding skills.
+
+# 2023-11-24
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Secondly, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to keep you organized and on track with your goals. 
+ - 来自NLP
