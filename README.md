@@ -41,3 +41,6 @@ Let's GO
 
 Secondly, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to keep you organized and on track with your goals. 
  - 来自NLP
+
+# 2023-11-25
+- "Keep it simple, stupid!"
