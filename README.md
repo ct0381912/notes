@@ -53,3 +53,10 @@ Secondly, planning ahead is crucial. Make a plan for your day, week, or even mon
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+
+# 2023-11-29
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you are working on a project, there will always be multiple things that need to get done. By prioritizing your task list, you can make sure that you focus on the most important tasks first. You can use techniques like the Eisenhower Matrix to help determine the priority of your duties. The Eisenheimer Matrix groups tasks into four categories: urgent and important, urgent but not important. important but non-urgent, non urgent non important (Eisenhower, 1964). 
+ .By focusing on urgent tasks and those that are important for your project' s success,you can ensure that your time is well spent.This will also help to reduce stress and anxiety, as you will feel more in control of the work that needs tobe done 。
+其次，提前计划。在开始一个项目之前，确保你有一个清晰的计划 of what you needto do and when you want to complete it. Creating a timeline for each task willhelp you stay on track and make better decisions about how to allocate yourtime.You can also use project management tools like Trello or Asana tohelp keep track of tasksand deadlines. These tools can helpyou stayorganized and on task, ensuring thatyour project stays on schedule.
