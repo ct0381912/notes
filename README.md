@@ -65,3 +65,6 @@ First, prioritize your tasks. When you are working on a project, there will alwa
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
 
 This quote emphasizes the importance of writing clean, well-documented, and understandable code. It's not just about making your own life easier when you have to revisit your code in the future, but also about making it easy for others to work with your code. By assuming that the person who will maintain your code is someone who is difficult to work with, you'll be motivated to make your code as clear and straightforward as possible.
+
+# 2023-12-01
+- "Keep it simple, stupid!"
