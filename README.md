@@ -97,3 +97,6 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller, more manageable tasks, then use critical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which can help you identify and fix errors more efficiently. Additionally, learning to write clean, concise, modular code will make your code easier to maintain and expand upon. 
  学习新技能并不断提高自己的技能水平是编程智慧的体现。通过阅读博客、文章和书籍，参加研讨会和会议，以及参与在线论坛和社区，你可以更好地了解行业趋势并培养成功所需的技能。
 另外，编程的智慧还包括解决问题的能力。面对具有挑战性的问题时，退一步，将其分解为更小、更易于管理的部分，然后使用批判性思维和创造力来找到解决方案。练习调试和重构代码，这可以帮助你更有效地识别和修复错误。此外，学会编写干净、简洁、模块化的代码可以使你的代码更容易维护和扩展。
+
+# 2023-12-09
+- "Keep it simple, stupid!"
