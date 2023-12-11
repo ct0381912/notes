@@ -103,3 +103,8 @@ Another important aspect of programming wise is problem-solving skills. When fac
 
 # 2023-12-10
 - Today's programming wisdom is to prioritize code readability and maintainability over clever optimizations or shortcuts. Writing clean, well-structured code that is easy to understand and modify will save time and headaches in the long run, especially when working on large projects with multiple contributors. Additionally, using descriptive variable names, commenting your code, and adhering to established coding conventions can greatly enhance the readability of your code. Remember, code is read far more often than it is written, so make it easy for others (and your future self) to understand your thought process and intentions.
+
+# 2023-12-11
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, harder-to-maintain code, and potentially even worse performance in the long run. It's important to focus on writing clear, correct code first, and only optimize when profiling has shown that a particular piece of code is causing a bottleneck.
