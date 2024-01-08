@@ -235,3 +235,8 @@ In other words, as a programmer, don't spend time trying to optimize parts of yo
 
 # 2024-01-07
 - "Keep it simple, stupid!"
+
+# 2024-01-08
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, strive for clarity and simplicity in your solutions. Avoid unnecessary complexity; it often leads to bugs and maintenance nightmares. Remember that code is read far more than it's written, so aim to make it as readable and understandable as possible for others and your future self." 
+
+"Also, 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing correct, maintainable code first. Optimize only when necessary and based on data-driven insights, not speculative assumptions. And always keep learning, because programming, like any craft, evolves continually."
