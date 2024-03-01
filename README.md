@@ -478,3 +478,13 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2024-02-29
 - "Today's programming wisdom is: 'Premature optimization is the root of all evil' — Donald Knuth. It reminds us that focusing on optimizing code too early can lead to unnecessary complexity, harder maintenance, and potential bugs. Instead, it's crucial to first write clear, readable, and working code before refining for efficiency when profiling identifies bottlenecks."
+
+# 2024-03-01
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines promote code that's maintainable, scalable, and adaptable to change, which are key virtues in the ever-evolving world of software development." 
+
+In detail:
+1. **Single Responsibility Principle (SRP)**: A class should have only one reason to change, meaning it should have only one primary responsibility or job.
+2. **Open-Closed Principle (OCP)**: Classes should be open for extension but closed for modification, allowing you to add new functionality without changing existing code.
+3. **Liskov Substitution Principle (LSP)**: Derived classes must be substitutable for their base classes, ensuring that behavior defined in a parent class applies to its children without unexpected side effects.
+4. **Interface Segregation Principle (ISP)**: Clients should not be forced to depend on methods they do not use; instead, interfaces should be broken down into smaller, more specific ones.
+5. **Dependency Inversion Principle (DIP)**: High-level modules should not depend on low-level modules; both should depend on abstractions. This way, changes in lower-level modules won't affect higher-level ones, increasing flexibility and maintainability.
